@@ -1,4 +1,4 @@
-# Variables
+# Variables and Constants
 
 ⚫️ Install python on your computer if you don't have it;
 
