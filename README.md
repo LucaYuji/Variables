@@ -1,4 +1,4 @@
-# Variables and Constants
+# **Beginner Study**
 
 ⚫️ Install python on your computer if you don't have it;
 
